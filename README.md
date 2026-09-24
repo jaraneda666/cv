@@ -127,23 +127,27 @@ En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluacione
 
 ## 🎓 Formación Académica
 
-| Carrera / Programa | Institución | Estado / Periodo |
-| :--- | :--- | :--- |
-| **Ingeniería en Ciberseguridad** | Instituto Profesional IACC | *Marzo 2025 – En curso* |
-| **Ingeniería en Informática** | Instituto Profesional INACAP | *2019 – 2020* |
-| **Ingeniería en Telemática** | Instituto CIISA | *2010 – 2011* |
-| **Analista de Sistemas** | DUOC UC | *Carrera cursada* |
+| Carrera / Programa | Institución | Estado / Periodo | Documento de Respaldo |
+| :--- | :--- | :--- | :---: |
+| **Ingeniería en Ciberseguridad** | Instituto Profesional IACC | *Marzo 2025 – En curso* | [Certificado Alumno Regular (PDF)](Certificados/CERTIFICADO%20ALUMNO%20REGULAR.pdf) |
+| **Ingeniería en Informática** | Instituto Profesional INACAP | *2019 – 2020* | — |
+| **Ingeniería en Telemática** | Instituto CIISA | *2010 – 2011* | — |
+| **Analista de Sistemas** | DUOC UC | *Carrera cursada* | — |
 
 ---
 
 ## 📜 Certificaciones y Especializaciones Técnicas
 
-Todas las certificaciones listadas a continuación cuentan con verificación oficial (SENCE / Cisco Networking Academy / IT Wall) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
+Todas las certificaciones listadas a continuación cuentan con verificación oficial (8dot8Academy / BIG school / SENCE / Cisco / IACC) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
 
-| Certificación / Curso | Institución Emisora | Horas | Código / Hash de Verificación | Documento Verificado |
+| Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
+| **Fundamentos de Hacking con Inteligencia Artificial** | 8dot8Academy | 21-04-2026 | `cert_t476m55b` | [Ver PDF](Certificados/certificate-of-completion-for-fundcia-fundamentos-de-hacking-con-inteligencia-artificial.pdf) |
+| **Fundamentos DPO (RGPD y Ley Nº 21.719 de Chile)** | 8dot8Academy | 21-04-2026 | `cert_sryfjngb` | [Ver PDF](Certificados/certificate-of-completion-for-fundatos-del-rol-del-delegado-de-proteccion-de-datos-dpo.pdf) |
+| **Ciberseguridad y Hacking Ético: Detección y Defensa** | BIG school | 6 hrs (10-04-2026) | Acreditado Romuald Fons / Mario Álvarez | [Ver PDF](Certificados/Certificado-Juan-Carlos-Araneda-Morales-gr0cs2on.pdf) |
+| **Certificado Alumno Regular (Ciberseguridad)** | Instituto Profesional IACC | Vigente 2026 | `6582657869689958401` | [Ver PDF](Certificados/CERTIFICADO%20ALUMNO%20REGULAR.pdf) |
 | **Técnicas de Ataque Ético (Ethical Hacking)** | Global Solution Consultores S.A. / SENCE | 16 hrs | `3E83099D-DCC8-4BAF-B7C5-E43A849E466F` | [Ver PDF](Certificados/T%C3%A9cnicas%20de%20Ataque%20Etico%20(Ethical%20Hacking).pdf) |
-| **Introducción a la Ciberseguridad** | Cisco Networking Academy | — | Acreditado 11 Mar 2025 | [Ver PDF](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) |
+| **Introducción a la Ciberseguridad** | Cisco Networking Academy | Acreditado 2025 | Acreditación Oficial Cisco | [Ver PDF](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) |
 | **Técnicas de Adm. y Securitización de Servidores Linux** | IT Wall S.A. / SENCE | 100 hrs | `D71F6C79-E28C-4C58-843D-805E001CC85D` | [Ver PDF](Certificados/T%C3%A9cnicas%20De%20Administraci%C3%B3n%20Y%20Securitizaci%C3%B3n%20De%20Servidores%20Linux..pdf) |
 | **Administración de Servidores** | IT Wall S.A. / SENCE | 30 hrs | `5BB87423-B7D1-4D37-800F-88A8ECB7CC88` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Servidores.pdf) |
 | **Técnicas de Programación en Lenguaje Java** | IT Wall S.A. / SENCE | 100 hrs | `D4509820-8160-40DA-A504-A067F807ADAD` | [Ver PDF](Certificados/Tecnicas%20De%20Programacion%20En%20Lenguaje%20Java.pdf) |
@@ -156,7 +160,6 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Técnicas de Venta** | Fundación de Capacitación Sofofa / SENCE | 12 hrs | `053A2F56-19F3-4051-B548-BC8162316450` | [Ver PDF](Certificados/T%C3%89CNICAS%20DE%20VENTA.pdf) |
 
 ### 🚀 Otras Especializaciones y Talleres
-- **Fundamentos de Hacking con Inteligencia Artificial** — *8dot8Academy*
 - **Workshop Día 5: Red Team y Linux** — *Diplomados en Ciberseguridad*
 - **Ciberseguridad con IA: Riesgos Reales y Prácticas de Defensa** — *Cámara Chilena de Inteligencia Artificial*
 - **Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta** — *Diplomados en Ciberseguridad*
