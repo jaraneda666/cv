@@ -25,7 +25,6 @@
 - [Certificaciones y Especializaciones Técnicas](#-certificaciones-y-especializaciones-técnicas)
 - [Índice de Documentos del Repositorio](#-índice-de-documentos-del-repositorio)
 - [Logros y Proyectos Destacados](#-logros-y-proyectos-destacados)
-- [Referencias Laborales](#-referencias-laborales)
 
 ---
 
@@ -205,13 +204,7 @@ A continuación se detalla la documentación organizada en el repositorio para f
 - **Español:** Nativo.
 - **Inglés:** Intermedio (lectura técnica, documentación y comunicación profesional).
 
----
 
-## 👥 Referencias Laborales
-
-- **Fernando Bruna** — Ex Jefe de Sistemas, Club Hípico de Santiago S.A. | Fono: +56 9 9509 2960 | Email: `fbrunah@outlook.es`
-- **Ramón Aros** — Jefe de Comunicaciones, Club Hípico de Santiago S.A. | Fono: +56 2 2693 8706 | Email: `ramon.aros@clubhipico.cl`
-- *Referencias adicionales disponibles a solicitud (Grupo Security, Comicrom, ING, SQL Technology, Metalpar).*
 
 ---
 
