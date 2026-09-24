@@ -23,6 +23,7 @@
 - [Experiencia Laboral](#-experiencia-laboral)
 - [Formación Académica](#-formación-académica)
 - [Certificaciones y Especializaciones Técnicas](#-certificaciones-y-especializaciones-técnicas)
+- [Insignias y Credenciales Digitales](#️-insignias-y-credenciales-digitales)
 - [Índice de Documentos del Repositorio](#-índice-de-documentos-del-repositorio)
 - [Logros y Proyectos Destacados](#-logros-y-proyectos-destacados)
 
@@ -147,7 +148,7 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Ciberseguridad y Hacking Ético: Detección y Defensa** | BIG school | 6 hrs (10-04-2026) | Acreditado Romuald Fons / Mario Álvarez | [Ver PDF](Certificados/Certificado-Juan-Carlos-Araneda-Morales-gr0cs2on.pdf) |
 | **Certificado Alumno Regular (Ciberseguridad)** | Instituto Profesional IACC | Vigente 2026 | `6582657869689958401` | [Ver PDF](Certificados/CERTIFICADO%20ALUMNO%20REGULAR.pdf) |
 | **Técnicas de Ataque Ético (Ethical Hacking)** | Global Solution Consultores S.A. / SENCE | 16 hrs | `3E83099D-DCC8-4BAF-B7C5-E43A849E466F` | [Ver PDF](Certificados/T%C3%A9cnicas%20de%20Ataque%20Etico%20(Ethical%20Hacking).pdf) |
-| **Introducción a la Ciberseguridad** | Cisco Networking Academy | Acreditado 2025 | Acreditación Oficial Cisco | [Ver PDF](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) |
+| **Introducción a la Ciberseguridad** | Cisco Networking Academy | 11-03-2025 | Credencial Oficial Verificada (QR) | [Diploma (PDF)](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) • [Credencial & Insignia (PDF)](Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf) |
 | **Técnicas de Adm. y Securitización de Servidores Linux** | IT Wall S.A. / SENCE | 100 hrs | `D71F6C79-E28C-4C58-843D-805E001CC85D` | [Ver PDF](Certificados/T%C3%A9cnicas%20De%20Administraci%C3%B3n%20Y%20Securitizaci%C3%B3n%20De%20Servidores%20Linux..pdf) |
 | **Administración de Servidores** | IT Wall S.A. / SENCE | 30 hrs | `5BB87423-B7D1-4D37-800F-88A8ECB7CC88` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Servidores.pdf) |
 | **Técnicas de Programación en Lenguaje Java** | IT Wall S.A. / SENCE | 100 hrs | `D4509820-8160-40DA-A504-A067F807ADAD` | [Ver PDF](Certificados/Tecnicas%20De%20Programacion%20En%20Lenguaje%20Java.pdf) |
@@ -158,6 +159,19 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Técnicas para la Comunicación** | Comunicación y Desarrollo Integral / SENCE | 12 hrs | `78CE54EC-05B5-4B1F-9072-17D2DCA0F1AF` | [Ver PDF](Certificados/T%C3%A9cnicas%20Para%20La%20comunicaci%C3%B3n.pdf) |
 | **Administración de Bodega** | Capacitación Capital Humano S.A. / SENCE | 16 hrs | `D78D7310-BA40-4D83-8191-10CB003FB4CD` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Bodega.pdf) |
 | **Técnicas de Venta** | Fundación de Capacitación Sofofa / SENCE | 12 hrs | `053A2F56-19F3-4051-B548-BC8162316450` | [Ver PDF](Certificados/T%C3%89CNICAS%20DE%20VENTA.pdf) |
+
+### 🎖️ Insignias y Credenciales Digitales
+
+<div align="center">
+
+<a href="Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf">
+  <img src="Certificados/introduction-to-cybersecurity.png" width="130" alt="Insignia Cisco Introduction to Cybersecurity" />
+</a>
+
+**Cisco Networking Academy**  
+*Introduction to Cybersecurity — Insignia Digital Verificada*
+
+</div>
 
 ### 🚀 Otras Especializaciones y Talleres
 - **Workshop Día 5: Red Team y Linux** — *Diplomados en Ciberseguridad*
