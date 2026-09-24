@@ -176,18 +176,8 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 A continuación se detalla la documentación organizada en el repositorio para fácil acceso y consulta:
 
 ### 📄 Currículum Vitae (CV) Actualizado (Versión 2026)
-- 🇨🇱 **Español:**
-  - [CV Juan Carlos Araneda 2026 (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026.pdf)
-  - [CV Juan Carlos Araneda 2026 (Word DOCX)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026.docx)
-- 🇬🇧 **English:**
-  - [CV Juan Carlos Araneda 2026 - English (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026_EN.pdf)
-  - [CV Juan Carlos Araneda 2026 - English (Word DOCX)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026_EN.docx)
-
-### 📋 Certificaciones Laborales Oficiales
-- **Certificado de Descripción de Funciones Laborales (Club Hípico de Santiago S.A.):**
-  - [Certificado de Funciones (PDF)](CERTIFICADO%20DE%20DESCRIPCI%C3%93N%20DE%20FUNCIONES%20LABORALES.pdf)
-  - [Certificado de Funciones (DOCX)](CERTIFICADO%20DE%20DESCRIPCI%C3%93N%20DE%20FUNCIONES%20LABORALES.docx)
-  *(Emitido por la Gerencia de RRHH, detallando formalmente responsabilidades como SysOps, SysAdmin y Administrador de Red TI)*.
+- 🇨🇱 **Español:** [CV Juan Carlos Araneda 2026 (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026.pdf)
+- 🇬🇧 **English:** [CV Juan Carlos Araneda 2026 - English (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026_EN.pdf)
 
 ### 🎓 Carpeta de Certificados de Estudio
 - Acceso a la colección completa de acreditaciones: [Directorio Certificados/](Certificados/)
