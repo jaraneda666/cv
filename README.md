@@ -1,0 +1,233 @@
+# Juan Carlos Araneda Morales
+
+<div align="center">
+
+![Banner](banner_linkedin.png)
+
+### **Especialista en Ciberseguridad | SysOps | SysAdmin | Administrador de Infraestructura TI & Redes**
+
+[![GitHub](https://img.shields.io/badge/GitHub-jaraneda666-181717?style=for-the-badge&logo=github)](https://github.com/jaraneda666)
+[![Email](https://img.shields.io/badge/Email-jaraneda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaraneda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Araneda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20%7C%20Pe%C3%B1aflor%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Teléfono](https://img.shields.io/badge/Tel%C3%A9fono-%2B56%209%208179%205313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56981795313)
+
+---
+
+</div>
+
+## 📌 Tabla de Contenidos
+
+- [Perfil Profesional](#-perfil-profesional)
+- [Habilidades y Competencias Técnicas](#-habilidades-y-competencias-técnicas)
+- [Experiencia Laboral](#-experiencia-laboral)
+- [Formación Académica](#-formación-académica)
+- [Certificaciones y Especializaciones Técnicas](#-certificaciones-y-especializaciones-técnicas)
+- [Índice de Documentos del Repositorio](#-índice-de-documentos-del-repositorio)
+- [Logros y Proyectos Destacados](#-logros-y-proyectos-destacados)
+- [Referencias Laborales](#-referencias-laborales)
+
+---
+
+## 👨‍💻 Perfil Profesional
+
+Profesional de las Tecnologías de la Información con **más de 20 años de trayectoria** liderando operaciones críticas de infraestructura TI, administración de redes corporativas, soporte técnico avanzado y ciberseguridad ofensiva/defensiva en entornos empresariales.
+
+Especializado en la implementación y securitización de infraestructuras híbridas (On-Premise y Cloud), administración de sistemas **Linux** (RHEL, Ubuntu, Debian) y **Windows Server**, virtualización (**VMware**, **Proxmox**, **Docker**, **Hyper-V**), soluciones de almacenamiento NAS y redes de alto rendimiento (**Cisco**, **Fortinet**, **Ubiquiti**).
+
+En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluaciones de seguridad ofensiva (Pentesting Web, Red Team), análisis y gestión de vulnerabilidades (Nessus, Qualys, Burp Suite, Kali Linux), auditorías de cumplimiento bajo **CIS Benchmark**, **PCI DSS** y **OWASP**, hardening de sistemas, auditoría de identidades (IAM, RBAC, MFA) y securitización de entornos **Microsoft 365**, **Google Workspace** y **GCP**.
+
+---
+
+## 🛠 Habilidades y Competencias Técnicas
+
+### 🔐 Ciberseguridad & Seguridad de la Información
+- **Seguridad Ofensiva & Defensiva:** Web Application Pentesting, Red Team, Blue Team (ciberinteligencia, forense y respuesta a incidentes), Ethical Hacking.
+- **Análisis de Vulnerabilidades & SAST/DAST:** Nessus, Qualys, Burp Suite, Kali Linux, Prisma Cloud (SAST), OWASP Top 10, CWE, CVSS 4.0.
+- **Normativas & Cumplimiento:** CIS Benchmark, PCI DSS, controles de acceso, gestión de riesgos, Least Privilege, MFA, RBAC.
+- **Securitización de Plataformas Cloud & Endpoint:** Microsoft Defender (Endpoint, Office, XDR), Microsoft Intune (MDM, MAM, Conditional Access, Autopilot), Google Workspace Security, GCP.
+
+### 🌐 Redes e Infraestructura de Comunicaciones
+- **Equipamiento de Red:** Firewalls Fortinet (FortiGate), Switches y Routers Cisco, equipamiento Ubiquiti Networks (UniFi).
+- **Protocolos y Servicios:** TCP/IP, VLAN, QoS, VPN (IPSec, SSL-VPN), DNS, DHCP, NAT, enrutamiento estático y dinámico.
+- **Seguridad Perimetral:** Reglas de firewalling, filtrado de contenido, inspección SSL, políticas de acceso remoto seguro.
+
+### 🖥️ Sistemas Operativos, Servidores & Virtualización
+- **Sistemas Operativos:** Linux (Red Hat Enterprise Linux, Ubuntu Server, Debian), Windows Server (2012, 2016, 2019, 2022).
+- **Servicios de Directorio:** Active Directory Domain Services (AD DS), migración local a On-Premise / Híbrido, Group Policy Objects (GPOs).
+- **Virtualización & Contenedores:** VMware ESXi / vSphere, Proxmox VE, Hyper-V, KVM, Docker.
+- **Cloud & Almacenamiento:** Amazon Web Services (AWS - EC2, S3, Route 53), Google Cloud Platform (GCP), NAS Synology (RAID, replicación y respaldos automatizados).
+
+### ⚙️ Automatización, Monitoreo & Herramientas
+- **Automatización & Scripting:** Bash, PowerShell, Python, Ansible.
+- **Monitoreo & Observabilidad:** Nagios, análisis de tráfico de red, consolas centralizadas (ESET Protect Cloud).
+- **Soporte & Gestión:** Mesa de ayuda L1/L2/L3, resolución de problemas críticos, gestión de SLAs, gestión de compras de equipamiento y piezas computacionales.
+
+---
+
+## 💼 Experiencia Laboral
+
+### **Especialista en Ciberseguridad** | *NIVEL4 CyberSecurity*
+**Octubre 2025 – Julio 2026**
+- Ejecución de evaluaciones de seguridad ofensiva: pruebas de penetración web (*Web Application Pentesting*), ejercicios de Red Team y análisis de vulnerabilidades en infraestructura tecnológica.
+- Realización de auditorías de ciberseguridad basadas en estándares **CIS Benchmark** y **PCI DSS**, evaluando el cumplimiento en entornos Windows y Linux.
+- Implementación de procesos de *hardening* en servidores y sistemas operativos corporativos para elevar la postura de seguridad de los clientes.
+- Evaluación de seguridad en clientes de los sectores financiero, salud y retail.
+- Uso avanzado de herramientas de auditoría y análisis: Kali Linux, Burp Suite, Nessus y Qualys, generando informes ejecutivos y técnicos con planes de remediación.
+- Fortalecimiento de políticas y controles en Microsoft Intune (Device Compliance, Conditional Access, Autopilot, MDM/MAM) y Microsoft Defender (Endpoint, Office y XDR).
+- Auditoría de controles de Identity and Access Management (IAM), Least Privilege, autenticación multifactor (MFA) y Access Reviews en Microsoft 365 y Google Workspace.
+- Liderazgo en revisiones de seguridad SAST (Prisma Cloud) y validaciones web (OWASP v4, CWE, CVSS 4.0) en aplicaciones estratégicas; evaluación técnica de plataformas de aplicación (WildFly, Tomcat) para migración segura de aplicaciones Java.
+
+### **SysOps / SysAdmin / Encargado de Soporte, Web y Redes** | *Club Hípico de Santiago S.A.*
+**Noviembre 2011 – Octubre 2025**
+- Administración integral y mantenimiento de la infraestructura tecnológica, garantizando alta disponibilidad, confidencialidad e integridad de las operaciones.
+- Soporte técnico de primer y segundo nivel (L1/L2) para más de cientos de usuarios y estaciones de trabajo, resolviendo incidencias críticas de hardware, software y conectividad.
+- Administración y mantenimiento de servidores Linux (RHEL, Ubuntu) y Windows Server, ejecutando tareas de parcheo, mantenimiento preventivo y *hardening*.
+- Implementación de plataformas de virtualización con VMware, Proxmox VE y Docker, optimizando el aprovechamiento del hardware en más de un 40%.
+- Gestión de almacenamiento centralizado NAS Synology, implementando estrategias de backup automatizado, tolerancia a fallos y planes de recuperación ante desastres (DRP).
+- Configuración y securitización de redes: Firewalls Fortigate, switches Cisco y enlaces Ubiquiti, desplegando VLANs segmentadas, QoS, VPN corporativas y políticas de seguridad perimetral.
+- Gestión de servicios web corporativos y plataforma AWS (administración de DNS, dominios y servidores web).
+- Migración y administración de Active Directory.
+- **Logro destacado:** Implementación del sistema de teletrabajo seguro en tiempo récord ante la emergencia sanitaria COVID-19, asegurando la continuidad total de las operaciones corporativas con tecnologías Fortinet, Cisco y Ubiquiti.
+
+### **Encargado de Soporte y Administrador de Redes** | *Seguros Generales Liberty S.A.*
+**Noviembre 2010 – Septiembre 2011**
+- Administración y mantenimiento de servidores Windows Server y Linux (RHEL/Ubuntu), plataformas web e infraestructura de redes corporativas.
+- Administración de virtualización (VMware, Proxmox, Docker) y almacenamiento NAS para respaldos y continuidad.
+- Soporte técnico Nivel 1 y 2, resolviendo incidentes de conectividad y plataformas corporativas.
+- Implementación de medidas de ciberseguridad, hardening y control de acceso.
+- **Logro clave:** Reducción del 30% en los tiempos de respuesta a incidentes mediante la optimización de procesos y documentación técnica.
+
+### **Administrador de Red y Encargado de Soporte TI** | *Red Metalpar S.A.*
+**Abril 2008 – Febrero 2009**
+- Administración de Active Directory (gestión de usuarios, grupos, políticas de grupo GPO y permisos).
+- Configuración y gestión de firewall Fortinet FortiGate: reglas de seguridad, VPN para accesos remotos y filtrado de navegación.
+- Soporte técnico presencial y remoto a usuarios; gestión de inventario y compras de piezas y partes computacionales.
+- **Logro clave:** Reducción del 25% en fallos de conectividad mediante segmentación de redes y mantenimiento preventivo.
+
+### **Encargado de Informática y Administrador de Red** | *Berlitz Escuelas de Idiomas*
+**Abril 2007 – Enero 2008**
+- Administración de servidores Windows y Linux, mantenimiento preventivo y correctivo de la plataforma TI.
+- Configuración de firewalls y accesos seguros vía VPN para sedes y usuarios remotos.
+- **Logro clave:** Incremento del 35% en la disponibilidad de los servicios tecnológicos mediante modernización de equipamiento.
+
+### **Administrador de Redes (Outsourcing SYSTECH)** | *Clínica Fundación Médica San Cristóbal*
+**Agosto 2006 – Marzo 2007**
+- Liderazgo en el proyecto de estandarización, diseño y modernización de la red corporativa (switches, routers y firewall).
+- Documentación técnica y capacitación al equipo interno para la operación de la nueva infraestructura.
+
+### **Otras Experiencias Relevantes**
+- **Claro Chile / Securynet** (2006 – 2007): Administrador de Red en Proyecto Triangulación de Antenas Móviles Claro.
+- **Isapre Consalud** (2006): Soporte Técnico especializado para el Proyecto de Implementación de Active Directory corporativo.
+- **Hotel Plaza San Francisco / Partner Consulting** (2005 – 2006): Administrador de Sistemas y Soporte.
+- **SQL Technology / Natura Cosméticos** (2004 – 2005): Administrador de Red interna y soporte computacional.
+- **Grupo ING** (2003 – 2004): Técnico en Terreno y Mesa de Ayuda (Help Desk y soporte de infraestructura).
+- **PREGO Soluciones Tecnológicas / Seguros Cruz del Sur** (2002 – 2003): Help Desk y soporte técnico en hardware/software.
+
+---
+
+## 🎓 Formación Académica
+
+| Carrera / Programa | Institución | Estado / Periodo |
+| :--- | :--- | :--- |
+| **Ingeniería en Ciberseguridad** | Instituto Profesional IACC | *Marzo 2025 – En curso* |
+| **Ingeniería en Informática** | Instituto Profesional INACAP | *2019 – 2020* |
+| **Ingeniería en Telemática** | Instituto CIISA | *2010 – 2011* |
+| **Analista de Sistemas** | DUOC UC | *Carrera cursada* |
+
+---
+
+## 📜 Certificaciones y Especializaciones Técnicas
+
+Todas las certificaciones listadas a continuación cuentan con verificación oficial (SENCE / Cisco Networking Academy / IT Wall) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
+
+| Certificación / Curso | Institución Emisora | Horas | Código / Hash de Verificación | Documento Verificado |
+| :--- | :--- | :---: | :---: | :---: |
+| **Técnicas de Ataque Ético (Ethical Hacking)** | Global Solution Consultores S.A. / SENCE | 16 hrs | `3E83099D-DCC8-4BAF-B7C5-E43A849E466F` | [Ver PDF](Certificados/T%C3%A9cnicas%20de%20Ataque%20Etico%20(Ethical%20Hacking).pdf) |
+| **Introducción a la Ciberseguridad** | Cisco Networking Academy | — | Acreditado 11 Mar 2025 | [Ver PDF](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) |
+| **Técnicas de Adm. y Securitización de Servidores Linux** | IT Wall S.A. / SENCE | 100 hrs | `D71F6C79-E28C-4C58-843D-805E001CC85D` | [Ver PDF](Certificados/T%C3%A9cnicas%20De%20Administraci%C3%B3n%20Y%20Securitizaci%C3%B3n%20De%20Servidores%20Linux..pdf) |
+| **Administración de Servidores** | IT Wall S.A. / SENCE | 30 hrs | `5BB87423-B7D1-4D37-800F-88A8ECB7CC88` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Servidores.pdf) |
+| **Técnicas de Programación en Lenguaje Java** | IT Wall S.A. / SENCE | 100 hrs | `D4509820-8160-40DA-A504-A067F807ADAD` | [Ver PDF](Certificados/Tecnicas%20De%20Programacion%20En%20Lenguaje%20Java.pdf) |
+| **Gestión de Comunicación y Resolución de Conflictos** | Capacitaciones Andres Rojas Farias / SENCE | 200 hrs | `CB0A97B5-3B19-4FB1-B9C7-104F3CD6F75F` | [Ver PDF](Certificados/Herramientas%20de%20gesti%C3%B3n%20de%20comunicaci%C3%B3n%20y%20resoluci%C3%B3n%20de%20conflictos.pdf) |
+| **Manejo de Excel en el Mundo del Trabajo** | E-Syste Capacitación S.A. / SENCE | 60 hrs | `5A71E468-FBC2-498A-BDC0-584DEABBFAF8` | [Ver PDF](Certificados/Manejo%20de%20Excel%20En%20El%20Mundo%20Del%20Trabajo.pdf) |
+| **Operación y Mantención de Equipos de TV Digital** | Sociedad de Adiestramiento Ocupacional / SENCE | 40 hrs | `49AF53CC-ABB2-44A1-8733-21771383D68D` | [Ver PDF](Certificados/Operaci%C3%B3n%20y%20Mantenci%C3%B3n%20de%20Equipos%20de%20Televisi%C3%B3n%20Digital.pdf) |
+| **Evaluación de Desempeño y Empoderamiento** | Capacitación Capital Humano S.A. / SENCE | 12 hrs | `0FDC1493-B799-4264-BB80-A6ED2A8D7CC2` | [Ver PDF](Certificados/EVALUACI%C3%93N%20DE%20DESEMPE%C3%91O%20Y%20EMPODERAMIENTO.pdf) |
+| **Técnicas para la Comunicación** | Comunicación y Desarrollo Integral / SENCE | 12 hrs | `78CE54EC-05B5-4B1F-9072-17D2DCA0F1AF` | [Ver PDF](Certificados/T%C3%A9cnicas%20Para%20La%20comunicaci%C3%B3n.pdf) |
+| **Administración de Bodega** | Capacitación Capital Humano S.A. / SENCE | 16 hrs | `D78D7310-BA40-4D83-8191-10CB003FB4CD` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Bodega.pdf) |
+| **Técnicas de Venta** | Fundación de Capacitación Sofofa / SENCE | 12 hrs | `053A2F56-19F3-4051-B548-BC8162316450` | [Ver PDF](Certificados/T%C3%89CNICAS%20DE%20VENTA.pdf) |
+
+### 🚀 Otras Especializaciones y Talleres
+- **Fundamentos de Hacking con Inteligencia Artificial** — *8dot8Academy*
+- **Workshop Día 5: Red Team y Linux** — *Diplomados en Ciberseguridad*
+- **Ciberseguridad con IA: Riesgos Reales y Prácticas de Defensa** — *Cámara Chilena de Inteligencia Artificial*
+- **Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta** — *Diplomados en Ciberseguridad*
+- **Fundamentos de Análisis de Redes** — *Diplomados en Ciberseguridad*
+- **Certificaciones Google / Coursera:**
+  - Fundamentos de la ciberseguridad
+  - Activos, amenazas y vulnerabilidades
+  - Conectar y proteger: Redes y seguridad de las redes
+  - Herramientas del oficio: Linux y SQL
+- **Armado y Reparación de PC** — *Fundación Padre Álvaro Lavín* (Práctica Laboral en VECTOR - Servicio Técnico Autorizado Compaq, Acer, HP).
+
+---
+
+## 📁 Índice de Documentos del Repositorio
+
+A continuación se detalla la documentación organizada en el repositorio para fácil acceso y consulta:
+
+### 📄 Currículum Vitae (CV) Actualizado (Versión 2026)
+- 🇨🇱 **Español:**
+  - [CV Juan Carlos Araneda 2026 (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026.pdf)
+  - [CV Juan Carlos Araneda 2026 (Word DOCX)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026.docx)
+- 🇬🇧 **English:**
+  - [CV Juan Carlos Araneda 2026 - English (PDF)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026_EN.pdf)
+  - [CV Juan Carlos Araneda 2026 - English (Word DOCX)](CV%20-%20JUAN%20CARLOS%20ARANEDA%2026_EN.docx)
+
+### 📋 Certificaciones Laborales Oficiales
+- **Certificado de Descripción de Funciones Laborales (Club Hípico de Santiago S.A.):**
+  - [Certificado de Funciones (PDF)](CERTIFICADO%20DE%20DESCRIPCI%C3%93N%20DE%20FUNCIONES%20LABORALES.pdf)
+  - [Certificado de Funciones (DOCX)](CERTIFICADO%20DE%20DESCRIPCI%C3%93N%20DE%20FUNCIONES%20LABORALES.docx)
+  *(Emitido por la Gerencia de RRHH, detallando formalmente responsabilidades como SysOps, SysAdmin y Administrador de Red TI)*.
+
+### 🎓 Carpeta de Certificados de Estudio
+- Acceso a la colección completa de acreditaciones: [Directorio Certificados/](Certificados/)
+
+### 💼 Portafolio y Declaraciones Profesionales
+- Declaración y fundamentos profesionales: [Directorio Portafolio/](Portafolio/)
+
+---
+
+## 🏆 Logros y Proyectos Destacados
+
+1. **Despliegue de Continuidad Operacional & Teletrabajo Seguro (COVID-19):**
+   - Planificación e implementación en tiempo récord de una arquitectura de acceso remoto seguro para el personal corporativo del Club Hípico de Santiago, empleando VPNs cifradas en firewalls Fortinet FortiGate, segmentación VLAN en switches Cisco y puntos de acceso Ubiquiti UniFi.
+2. **Modernización y Consolidación de Servidores (Virtualización):**
+   - Transición de servidores físicos heredados a plataformas de virtualización de alta disponibilidad (**VMware ESXi**, **Proxmox VE** y contenedores **Docker**), reduciendo costos energéticos, optimizando el uso de CPU/RAM en un 40% y simplificando el aprovisionamiento de nuevos servicios.
+3. **Estrategia Integral de Respaldo y Protección contra Ransomware:**
+   - Despliegue de almacenamiento en red NAS Synology con políticas de snapshot inmutables, respaldos cifrados periódicos y pruebas regulares de restauración de datos y Disaster Recovery.
+4. **Auditorías de Seguridad Ofensiva y Hardening:**
+   - Ejecución de análisis de vulnerabilidades, pruebas de penetración y adecuación de infraestructura según guías CIS Benchmark y PCI DSS, minimizando la superficie de ataque corporativa.
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** Nativo.
+- **Inglés:** Intermedio (lectura técnica, documentación y comunicación profesional).
+
+---
+
+## 👥 Referencias Laborales
+
+- **Fernando Bruna** — Ex Jefe de Sistemas, Club Hípico de Santiago S.A. | Fono: +56 9 9509 2960 | Email: `fbrunah@outlook.es`
+- **Ramón Aros** — Jefe de Comunicaciones, Club Hípico de Santiago S.A. | Fono: +56 2 2693 8706 | Email: `ramon.aros@clubhipico.cl`
+- *Referencias adicionales disponibles a solicitud (Grupo Security, Comicrom, ING, SQL Technology, Metalpar).*
+
+---
+
+<div align="center">
+
+**Juan Carlos Araneda Morales**  
+*Santiago, Chile* • [GitHub @jaraneda666](https://github.com/jaraneda666) • [jaraneda@gmail.com](mailto:jaraneda@gmail.com)
+
+</div>

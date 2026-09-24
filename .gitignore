@@ -1,0 +1,21 @@
+# Archivos temporales de Microsoft Office
+~$*
+*.tmp
+*.temp
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales y enlaces de sincronización Google Drive
+.tmp.drive*
+*.gdoc
+*.gsheet
+*.gslides
+
+# Entornos y temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class

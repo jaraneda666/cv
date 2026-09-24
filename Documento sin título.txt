@@ -1,0 +1,225 @@
+---------------------------
+Juan Carlos Araneda Morales
+---------------------------
+Puesto de trabajo: Administrador de Red TI 
+Nacionalidad: Chilena 
+Fecha de nacimiento: 1975-07-02 
+Dirección: Volcan Descabezado #1629 
+Teléfono: +56981795313 
+Email: jaraneda@gmail.com 
+
+        
+//  Objetivo profesional //
+        
+Profesional Administrador de Red TI con habilidades en gestión de proyectos, experiencia en planificación, implementación y mantenimiento de infraestructuras de red, configuración de redes y resolución de problemas técnicos, conocimientos en seguridad informática, supervisión de red y cumplimiento de normativas y capacidad para optimizar el rendimiento de la infraestructura tecnológica.
+
+
+            
+//  Experiencia //
+        
+_ Soporte Técnico _
+PREGO Soluciones Tecnológicas
+Santiago, Chile
+2002-12 - 2003-01
+Reemplazo Help Desk en PREGO Soluciones Tecnológicas, empresa que presta servicios informáticos a SEGUROS CRUZ DEL SUR.
+Otras funciones fueron, la configuración de estaciones de trabajo, detección de fallas en software y hardware. 
+ Implantación de software creado y desarrollado exclusivamente para las empresas antes mencionadas. 
+-Amplio conocimiento en la resolución de incidencias de hardware y software en entornos empresariales.
+
+            
+_ Técnico Terreno y Mesa de Ayuda _
+ING
+Santiago, Chile
+2003-01 - 2004-08
+-Experiencia en atención al cliente y resolución de problemas técnicos en entornos de mesa de ayuda.
+-Conocimiento en la instalación, configuración y mantenimiento de hardware y software de computadoras.
+-Participación en proyectos de implementación de redes locales y soluciones de conectividad.
+-Colaboración en la elaboración de documentación técnica y manuales de usuario.
+-Experiencia en soporte remoto a usuarios y administración de servidores.
+-Habilidades en la gestión de incidencias y seguimiento de tiempos de respuesta en atención al cliente.
+-Participación en capacitaciones y actualizaciones técnicas para mejorar habilidades y conocimientos.
+
+            
+_ Administrador de red _
+SQL Technology
+Santiago, Chile
+ - 
+-Administrador de red interna y Soporte Computacional en SQL Technology, también prestando servicios como Soporte Computacional en NATURA Cosméticos S.A. mediante contrato de prestación de servicios de SQL Technology.
+-Experiencia gestionando redes de área local (LAN)
+-Habilidades en configuración y mantenimiento de servidores
+-Desarrollo de políticas de seguridad de red y VPN
+-Implementación y optimización de infraestructuras de red
+-Mantenimiento preventivo y correctivo de equipos de red
+-Colaboración en proyectos de expansión de red
+-Configuración de routers y switches
+-Monitoreo y análisis de tráfico de red
+-Experiencia en administración de redes en entornos empresariales.
+-Configuración y mantenimiento de switches, routers y firewalls.
+-Implementación de políticas de seguridad en redes locales y VPNs.
+-Administración y monitoreo de servidores y sistemas de almacenamiento.
+-Experiencia en diseño e implementación de redes LAN y WAN.
+-Gestión de incidencias y resolución de problemas en redes.
+-Colaboración en proyectos de migración y actualización de infraestructuras de red.
+-Conocimientos de protocolos de red como TCP/IP, DHCP, DNS y VLANs.
+
+            
+_ Administrador de Sistemas _
+HOTEL PLAZA SAN FRANCISCO
+Santiago, Chile
+2005-12 - 2006-03
+Reemplazo de Vacaciones en HOTEL PLAZA SAN FRANCISCO como Administrador de Sistemas y Soporte mediante Outsourcing de PARTNER CONSULTING.
+            
+_ Soporte Técnico _
+Isapre Consalud
+Santiago, Chile
+2006-04 - 2006-07
+Soporte Técnico en Isapre Consalud para Proyecto implementación Active Directory-Más de 3 años de experiencia en soporte técnico brindando asistencia en persona y a través de medios remotos.
+-Amplio conocimiento en la resolución de incidencias de hardware y software en entornos empresariales.
+-Experiencia en la configuración y mantenimiento de redes informáticas, incluyendo switchs y routers.
+-Desarrollo de procedimientos y documentación para la resolución eficiente de problemas técnicos.
+-Colaboración en proyectos de implementación de sistemas informáticos y migraciones de datos.
+-Experiencia en la atención al cliente, garantizando un alto nivel de satisfacción y resolución de problemas.
+-Participación en la formación de nuevos empleados en aspectos técnicos y de soporte.
+-Trabajo en equipo con otros departamentos para garantizar la integridad y seguridad de la infraestructura tecnológica.
+
+            
+_ Administrador de Red _
+SYSTECH
+Santiago, Chile
+2006-08 - 2006-11
+Administrador de Red Fundación Médica San Cristóbal Mediante Outsourcing de SYSTECH, proyecto estandarización Red.
+            
+_ Administrador de Red Pro Siemens _
+Claro
+Santiago, Chile
+2006-12 - 2007-03
+Administrador de Red Pro-Siemes Proyecto Triangulación Antenas Móviles Claro mediante Outsourcing de Securynet
+            
+_ Encargado de Informática y Administrador de Red _
+Berlitz
+Santiago, Chile
+2007-04 - 2008-03
+Encargado de Informática y Administrador de Red en Berlitz Escuelas de Idiomas desempeñando funciones de administración servidores, compra partes y piezas, implementación de nuevas tecnologías, administración firewall Fortigate y VPN
+            
+_ Administrador de Red y Encargado de Soporte _
+Red Metalpar S.A.
+Maipu, Chile
+2008-04 - 2009-11
+Encargado de Soporte y Administración de Red Metalpar S.A. desempeñando funciones de soporte, administración usuarios, administración firewall Fortigate, comprar partes y piezas computacionales, insumos.
+            
+_ Encargado de Soporte _
+Red Compañia de Seguros Generales Liberty S.A.
+
+2010-11 - 2011-05
+Soporte Administrador de Red Compañia de Seguros Generales Liberty S.A.
+            
+_ Administrador de Red _
+Club Hipico de Santiago
+Santiago, Chile
+2011-11 - missing translation: es-ES|Present
+Encargado de Soporte, Web y Redes Club Hipico de Santiago con equipo a cargo para cada area siendo Administrador de Red.
+            
+//  Educación //
+        
+_ Ingenieria en Informatica _
+Instituto Inacap
+Santiago, Chile,  - 
+Cursados 4 semestres de la carrera y actualmente congelada
+            
+_ Ingeniería en Telemática _
+Instituto CIISA
+Santiago, Chile,  - 
+Cursados 4 semestres de la carrera
+            
+_ Analista de Sistemas _
+Instituto DUOC UC
+Carrera Cursada pero no titulado.,  - 
+
+            
+_ Enseñanza Media _
+Liceo B°121 Peñaflor
+Peñaflor, Chile, 1989 - 
+
+            
+//  Habilidades //
+        
+• Configuración de redes
+            
+• Mantenimiento de servidores
+            
+• Administración de sistemas
+            
+• Seguridad informática
+            
+• Resolución de problemas
+            
+• Gestión de proyectos
+            
+• Virtualización
+            
+• Ciberseguridad
+            
+//  Idiomas //
+        
+• Ingles, intermediate 
+            
+//  Logros //
+        
+Implementacion teletrabajo en Club Hipico de Santiago en tiempo record debido a la pandemia mundial de Covid con los mas altos niveles de seguridad gracias a Fotinet, Cisco e Ubiquiti. Sistemas se sigue utilizando.
+            
+//  Referencias //
+        
+Alexander Méndez, Monitor Soporte Terreno GRUPO SECURITY
+Fono: 270 4495.
+
+Julio Farias, Monitor Configuración GRUPO SECURITY.
+Fono: 270 4897.
+
+Carlos Neira, Supervisor área Soporte COMICROM.
+Fono: 253 5305.
+
+Eduardo Sandoval, Encargado Área Informática UNIFOOD.
+Fono: 299 2942.
+
+Cesar Baltierra, Supervisor Soporte ING-
+Fono 252 5424.
+
+Rafael Latrop, Gerente General SQL Technology.
+Fono 234 0340.
+
+Eugenia Varas, Ejecutiva  Partner Consulting
+Fono 244 3451
+
+Carlos Jelvez, Supervisor Informática Systech
+Fono 09-327 4028
+
+José Peñaloza V., Jefe Personal Metalpar S.A.
+Fono 368 2000
+
+            
+//  Secciones personalizadas //
+        
+Cursos SENCE
+            
+- Curso de Armado y Reparación de PC    Fundación  "Padre Álvaro Lavín,",  Practica Laboral en VECTOR  Servicio  Técnico Autorizado COMPAQ, ACER, HEWLLET PACKARD. 
+
+- Carrera Linux, Administracion, Seguridad  y Troubleshoting en Ambiente Linux, Instituto ITWALL
+
+- Operación Y Mantención De Equipos De Televisión Digital, Sociedad De Adiestramiento, Formación, Entrenamiento Y Capacitación Ocupacional Limitada
+
+- Técnicas De Administración Y Securitización De Servidores Linux
+Evaluación de desempeño y empoderamiento profesional
+
+- Operación y Mantención de Equipos de Televisión Digital
+
+- Administración De Bodega
+
+- Manejo de Excel En El Mundo Del Trabajo
+
+- Técnicas de Ataque Etico (Ethical Hacking)
+
+- Tecnicas De Programacion En Lenguaje Java
+
+- Administración De Servidores
+
+            
