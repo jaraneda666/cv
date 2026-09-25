@@ -157,6 +157,7 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Operación y Mantención de Equipos de TV Digital** | Sociedad de Adiestramiento Ocupacional / SENCE | 40 hrs | `49AF53CC-ABB2-44A1-8733-21771383D68D` | [Ver PDF](Certificados/Operaci%C3%B3n%20y%20Mantenci%C3%B3n%20de%20Equipos%20de%20Televisi%C3%B3n%20Digital.pdf) |
 | **Evaluación de Desempeño y Empoderamiento** | Capacitación Capital Humano S.A. / SENCE | 12 hrs | `0FDC1493-B799-4264-BB80-A6ED2A8D7CC2` | [Ver PDF](Certificados/EVALUACI%C3%93N%20DE%20DESEMPE%C3%91O%20Y%20EMPODERAMIENTO.pdf) |
 | **Técnicas para la Comunicación** | Comunicación y Desarrollo Integral / SENCE | 12 hrs | `78CE54EC-05B5-4B1F-9072-17D2DCA0F1AF` | [Ver PDF](Certificados/T%C3%A9cnicas%20Para%20La%20comunicaci%C3%B3n.pdf) |
+| **ISO/IEC 27001: Implementación & Gestión (Clases 1, 2 y 3)** | Hacker Mentor | 2026 | Insignias Digitales Verificadas | [Clase 1 (PDF)](Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.pdf) • [Clase 2 (PDF)](Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.pdf) • [Clase 3 (PDF)](Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf) |
 | **Administración de Bodega** | Capacitación Capital Humano S.A. / SENCE | 16 hrs | `D78D7310-BA40-4D83-8191-10CB003FB4CD` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Bodega.pdf) |
 | **Técnicas de Venta** | Fundación de Capacitación Sofofa / SENCE | 12 hrs | `053A2F56-19F3-4051-B548-BC8162316450` | [Ver PDF](Certificados/T%C3%89CNICAS%20DE%20VENTA.pdf) |
 
@@ -164,12 +165,38 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 
 <div align="center">
 
-<a href="Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf">
-  <img src="Certificados/introduction-to-cybersecurity.png" width="130" alt="Insignia Cisco Introduction to Cybersecurity" />
-</a>
-
-**Cisco Networking Academy**  
-*Introduction to Cybersecurity — Insignia Digital Verificada*
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf">
+        <img src="Certificados/introduction-to-cybersecurity.png" width="130" alt="Insignia Cisco Introduction to Cybersecurity" /><br />
+        <b>Cisco Networking Academy</b><br />
+        <sub>Introduction to Cybersecurity</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.pdf">
+        <img src="Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.png" width="130" alt="Insignia Hacker Mentor - Construyendo la Fortaleza Digital" /><br />
+        <b>Hacker Mentor — ISO 27001</b><br />
+        <sub>Clase 1: Fortaleza Digital</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.pdf">
+        <img src="Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.png" width="130" alt="Insignia Hacker Mentor - Mapa de los Activos Críticos" /><br />
+        <b>Hacker Mentor — ISO 27001</b><br />
+        <sub>Clase 2: Activos Críticos</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf">
+        <img src="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.png" width="130" alt="Insignia Hacker Mentor - Cazador de Riesgos" /><br />
+        <b>Hacker Mentor — ISO 27001</b><br />
+        <sub>Clase 3: Cazador de Riesgos</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
