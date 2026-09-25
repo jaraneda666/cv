@@ -139,10 +139,13 @@ En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluacione
 
 ## 📜 Certificaciones y Especializaciones Técnicas
 
-Todas las certificaciones listadas a continuación cuentan con verificación oficial (Google / Coursera / 8dot8Academy / BIG school / SENCE / Cisco / IACC / Hacker Mentor) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
+Todas las certificaciones listadas a continuación cuentan con verificación oficial (8.8 Academy / IA LATAM / Google & Coursera / Cisco / BIG school / SENCE / IACC / Hacker Mentor / Diplomados en Ciberseguridad) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
 
 | Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
+| **Hacking con Inteligencia Artificial (HKAI-105)** | 8.8 Academy | 30 hrs (08-08-2026) | [`OC-9F78B5CF`](https://openchapitas.org) | [Diploma (PDF)](Certificados/8dot8-diploma-hacking-con-ia.pdf) |
+| **Fundamentos del Vibe Coding Seguro (FVCS-101)** | 8.8 Academy / IA LATAM | 7.5 hrs (25-08-2026) | [`OC-B63FAC93`](https://openchapitas.org) (Distinción de Excelencia - Nota 7.0) | [Diploma (PDF)](Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf) |
+| **1er Congreso IA LATAM 2026** | Comunidad IA LATAM | 20 hrs (01-08-2026) | [`OC-265A54B5`](https://openchapitas.org) | [Diploma (PDF)](Certificados/ialatam-diploma-1er-congreso-2026.pdf) |
 | **Connect and Protect: Networks and Network Security** | Google / Coursera | 11-05-2026 | [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN) | [Ver PDF](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) |
 | **Sound the Alarm: Detection and Response** | Google / Coursera | 11-05-2026 | [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL) | [Ver PDF](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) |
 | **Fundamentos de Hacking con Inteligencia Artificial** | 8dot8Academy | 21-04-2026 | `cert_t476m55b` | [Ver PDF](Certificados/certificate-of-completion-for-fundcia-fundamentos-de-hacking-con-inteligencia-artificial.pdf) |
@@ -151,6 +154,9 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Certificado Alumno Regular (Ciberseguridad)** | Instituto Profesional IACC | Vigente 2026 | `6582657869689958401` | [Ver PDF](Certificados/CERTIFICADO%20ALUMNO%20REGULAR.pdf) |
 | **Técnicas de Ataque Ético (Ethical Hacking)** | Global Solution Consultores S.A. / SENCE | 16 hrs | `3E83099D-DCC8-4BAF-B7C5-E43A849E466F` | [Ver PDF](Certificados/T%C3%A9cnicas%20de%20Ataque%20Etico%20(Ethical%20Hacking).pdf) |
 | **Introducción a la Ciberseguridad** | Cisco Networking Academy | 11-03-2025 | Credencial Oficial Verificada (QR) | [Diploma (PDF)](Certificados/Introduccion%20a%20la%20Ciberseguridad%20Cisco.pdf) • [Credencial & Insignia (PDF)](Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf) |
+| **Fundamentos en Blue Team Ciberinteligencia, Forense y Resp.** | Diplomados en Ciberseguridad | 19-06-2026 | Acreditado Carlos Lobos de Medina | [Ver PDF](Certificados/Diplomado-Ciberseguridad-Fundamentos-Blue-Team.pdf) |
+| **Fundamentos de Análisis de Redes v.1** | Diplomados en Ciberseguridad | 15 hrs (19-06-2026) | 15 Créditos Ed. Profesional | [Ver PDF](Certificados/Diplomado-Ciberseguridad-Fundamentos-Analisis-de-Redes.pdf) |
+| **ISO/IEC 27001: Implementación & Gestión (Clases 1, 2 y 3)** | Hacker Mentor | 2026 | Insignias Digitales Verificadas | [Clase 1 (PDF)](Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.pdf) • [Clase 2 (PDF)](Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.pdf) • [Clase 3 (PDF)](Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf) |
 | **Técnicas de Adm. y Securitización de Servidores Linux** | IT Wall S.A. / SENCE | 100 hrs | `D71F6C79-E28C-4C58-843D-805E001CC85D` | [Ver PDF](Certificados/T%C3%A9cnicas%20De%20Administraci%C3%B3n%20Y%20Securitizaci%C3%B3n%20De%20Servidores%20Linux..pdf) |
 | **Administración de Servidores** | IT Wall S.A. / SENCE | 30 hrs | `5BB87423-B7D1-4D37-800F-88A8ECB7CC88` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Servidores.pdf) |
 | **Técnicas de Programación en Lenguaje Java** | IT Wall S.A. / SENCE | 100 hrs | `D4509820-8160-40DA-A504-A067F807ADAD` | [Ver PDF](Certificados/Tecnicas%20De%20Programacion%20En%20Lenguaje%20Java.pdf) |
@@ -159,7 +165,6 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Operación y Mantención de Equipos de TV Digital** | Sociedad de Adiestramiento Ocupacional / SENCE | 40 hrs | `49AF53CC-ABB2-44A1-8733-21771383D68D` | [Ver PDF](Certificados/Operaci%C3%B3n%20y%20Mantenci%C3%B3n%20de%20Equipos%20de%20Televisi%C3%B3n%20Digital.pdf) |
 | **Evaluación de Desempeño y Empoderamiento** | Capacitación Capital Humano S.A. / SENCE | 12 hrs | `0FDC1493-B799-4264-BB80-A6ED2A8D7CC2` | [Ver PDF](Certificados/EVALUACI%C3%93N%20DE%20DESEMPE%C3%91O%20Y%20EMPODERAMIENTO.pdf) |
 | **Técnicas para la Comunicación** | Comunicación y Desarrollo Integral / SENCE | 12 hrs | `78CE54EC-05B5-4B1F-9072-17D2DCA0F1AF` | [Ver PDF](Certificados/T%C3%A9cnicas%20Para%20La%20comunicaci%C3%B3n.pdf) |
-| **ISO/IEC 27001: Implementación & Gestión (Clases 1, 2 y 3)** | Hacker Mentor | 2026 | Insignias Digitales Verificadas | [Clase 1 (PDF)](Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.pdf) • [Clase 2 (PDF)](Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.pdf) • [Clase 3 (PDF)](Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf) |
 | **Administración de Bodega** | Capacitación Capital Humano S.A. / SENCE | 16 hrs | `D78D7310-BA40-4D83-8191-10CB003FB4CD` | [Ver PDF](Certificados/Administraci%C3%B3n%20De%20Bodega.pdf) |
 | **Técnicas de Venta** | Fundación de Capacitación Sofofa / SENCE | 12 hrs | `053A2F56-19F3-4051-B548-BC8162316450` | [Ver PDF](Certificados/T%C3%89CNICAS%20DE%20VENTA.pdf) |
 
@@ -171,28 +176,58 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
   <tr>
     <td align="center" width="25%">
       <a href="Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf">
-        <img src="Certificados/introduction-to-cybersecurity.png" width="130" alt="Insignia Cisco Introduction to Cybersecurity" /><br />
+        <img src="Certificados/introduction-to-cybersecurity.png" width="125" alt="Insignia Cisco Introduction to Cybersecurity" /><br />
         <b>Cisco Networking Academy</b><br />
         <sub>Introduction to Cybersecurity</sub>
       </a>
     </td>
     <td align="center" width="25%">
+      <a href="Certificados/8dot8-diploma-hacking-con-ia.pdf">
+        <img src="Certificados/8dot8-insignia-hacking-con-ia.png" width="125" alt="Insignia 8.8 Academy - Hacking con Inteligencia Artificial" /><br />
+        <b>8.8 Academy</b><br />
+        <sub>Hacking con Inteligencia Artificial</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf">
+        <img src="Certificados/8dot8-ialatam-insignia-vibe-coding-seguro.png" width="125" alt="Insignia 8.8 Academy / IA LATAM - Vibe Coding Seguro" /><br />
+        <b>8.8 Academy · IA LATAM</b><br />
+        <sub>Vibe Coding Seguro (Excelencia 7.0)</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="Certificados/ialatam-diploma-1er-congreso-2026.pdf">
+        <img src="Certificados/ialatam-insignia-1er-congreso-2026.png" width="125" alt="Insignia IA LATAM - 1er Congreso IA LATAM 2026" /><br />
+        <b>Comunidad IA LATAM</b><br />
+        <sub>1er Congreso IA LATAM 2026</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="Certificados/insignia-workshop-dia-5-red-team-y-linux.png">
+        <img src="Certificados/insignia-workshop-dia-5-red-team-y-linux.png" width="125" alt="Insignia Workshop Día 5: Red Team y Linux" /><br />
+        <b>Diplomado Ciberseguridad</b><br />
+        <sub>Workshop Red Team y Linux</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
       <a href="Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.pdf">
-        <img src="Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.png" width="130" alt="Insignia Hacker Mentor - Construyendo la Fortaleza Digital" /><br />
+        <img src="Certificados/Hacker-Mentor-Insignia-1-Construyendo-la-Fortaleza-Digital.png" width="125" alt="Insignia Hacker Mentor - Construyendo la Fortaleza Digital" /><br />
         <b>Hacker Mentor — ISO 27001</b><br />
         <sub>Clase 1: Fortaleza Digital</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.pdf">
-        <img src="Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.png" width="130" alt="Insignia Hacker Mentor - Mapa de los Activos Críticos" /><br />
+        <img src="Certificados/Hacker-Mentor-Insignia-2-Mapa-de-los-Activos-Criticos.png" width="125" alt="Insignia Hacker Mentor - Mapa de los Activos Críticos" /><br />
         <b>Hacker Mentor — ISO 27001</b><br />
         <sub>Clase 2: Activos Críticos</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf">
-        <img src="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.png" width="130" alt="Insignia Hacker Mentor - Cazador de Riesgos" /><br />
+        <img src="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.png" width="125" alt="Insignia Hacker Mentor - Cazador de Riesgos" /><br />
         <b>Hacker Mentor — ISO 27001</b><br />
         <sub>Clase 3: Cazador de Riesgos</sub>
       </a>
@@ -203,10 +238,10 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 </div>
 
 ### 🚀 Otras Especializaciones y Talleres
-- **Workshop Día 5: Red Team y Linux** — *Diplomados en Ciberseguridad*
+- **[Workshop Día 5: Red Team y Linux (Insignia Oficial)](Certificados/insignia-workshop-dia-5-red-team-y-linux.png)** — *Cybersecurity Week 2026 / Diplomados en Ciberseguridad*
+- **[Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Blue-Team.pdf)** — *Diplomados en Ciberseguridad*
+- **[Fundamentos de Análisis de Redes v.1 (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Analisis-de-Redes.pdf)** — *Diplomados en Ciberseguridad (15 hrs)*
 - **Ciberseguridad con IA: Riesgos Reales y Prácticas de Defensa** — *Cámara Chilena de Inteligencia Artificial*
-- **Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta** — *Diplomados en Ciberseguridad*
-- **Fundamentos de Análisis de Redes** — *Diplomados en Ciberseguridad*
 - **Certificaciones Google / Coursera (Google Cybersecurity Certificate):**
   - [Connect and Protect: Networks and Network Security (PDF)](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) — Credencial Verificada [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN)
   - [Sound the Alarm: Detection and Response (PDF)](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) — Credencial Verificada [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL)
