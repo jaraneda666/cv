@@ -139,10 +139,12 @@ En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluacione
 
 ## 📜 Certificaciones y Especializaciones Técnicas
 
-Todas las certificaciones listadas a continuación cuentan con verificación oficial (8dot8Academy / BIG school / SENCE / Cisco / IACC) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
+Todas las certificaciones listadas a continuación cuentan con verificación oficial (Google / Coursera / 8dot8Academy / BIG school / SENCE / Cisco / IACC / Hacker Mentor) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
 
 | Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
+| **Connect and Protect: Networks and Network Security** | Google / Coursera | 11-05-2026 | [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN) | [Ver PDF](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) |
+| **Sound the Alarm: Detection and Response** | Google / Coursera | 11-05-2026 | [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL) | [Ver PDF](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) |
 | **Fundamentos de Hacking con Inteligencia Artificial** | 8dot8Academy | 21-04-2026 | `cert_t476m55b` | [Ver PDF](Certificados/certificate-of-completion-for-fundcia-fundamentos-de-hacking-con-inteligencia-artificial.pdf) |
 | **Fundamentos DPO (RGPD y Ley Nº 21.719 de Chile)** | 8dot8Academy | 21-04-2026 | `cert_sryfjngb` | [Ver PDF](Certificados/certificate-of-completion-for-fundatos-del-rol-del-delegado-de-proteccion-de-datos-dpo.pdf) |
 | **Ciberseguridad y Hacking Ético: Detección y Defensa** | BIG school | 6 hrs (10-04-2026) | Acreditado Romuald Fons / Mario Álvarez | [Ver PDF](Certificados/Certificado-Juan-Carlos-Araneda-Morales-gr0cs2on.pdf) |
@@ -205,10 +207,11 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 - **Ciberseguridad con IA: Riesgos Reales y Prácticas de Defensa** — *Cámara Chilena de Inteligencia Artificial*
 - **Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta** — *Diplomados en Ciberseguridad*
 - **Fundamentos de Análisis de Redes** — *Diplomados en Ciberseguridad*
-- **Certificaciones Google / Coursera:**
+- **Certificaciones Google / Coursera (Google Cybersecurity Certificate):**
+  - [Connect and Protect: Networks and Network Security (PDF)](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) — Credencial Verificada [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN)
+  - [Sound the Alarm: Detection and Response (PDF)](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) — Credencial Verificada [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL)
   - Fundamentos de la ciberseguridad
   - Activos, amenazas y vulnerabilidades
-  - Conectar y proteger: Redes y seguridad de las redes
   - Herramientas del oficio: Linux y SQL
 - **Armado y Reparación de PC** — *Fundación Padre Álvaro Lavín* (Práctica Laboral en VECTOR - Servicio Técnico Autorizado Compaq, Acer, HP).
 
