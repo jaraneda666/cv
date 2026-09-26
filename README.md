@@ -139,10 +139,11 @@ En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluacione
 
 ## 📜 Certificaciones y Especializaciones Técnicas
 
-Todas las certificaciones listadas a continuación cuentan con verificación oficial (8.8 Academy / IA LATAM / Google & Coursera / Cisco / BIG school / SENCE / IACC / Hacker Mentor / Diplomados en Ciberseguridad) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
+Todas las certificaciones listadas a continuación cuentan con verificación oficial (8.8 Academy / IA LATAM / HolaMundo / Google & Coursera / Cisco / BIG school / SENCE / IACC / Hacker Mentor / Diplomados en Ciberseguridad) y sus documentos respaldatorios se encuentran almacenados y accesibles dentro de este repositorio:
 
 | Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
+| **Obsidian: Tu Segundo Cerebro con IA** | HolaMundo (holamundo.io) | 25-09-2026 | `fkkmmwl5pn` | [Diploma (PDF)](Certificados/holamundo-diploma-obsidian-segundo-cerebro-con-ia.pdf) |
 | **Hacking con Inteligencia Artificial (HKAI-105)** | 8.8 Academy | 30 hrs (08-08-2026) | [`OC-9F78B5CF`](https://openchapitas.org) | [Diploma (PDF)](Certificados/8dot8-diploma-hacking-con-ia.pdf) |
 | **Fundamentos del Vibe Coding Seguro (FVCS-101)** | 8.8 Academy / IA LATAM | 7.5 hrs (25-08-2026) | [`OC-B63FAC93`](https://openchapitas.org) (Distinción de Excelencia - Nota 7.0) | [Diploma (PDF)](Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf) |
 | **1er Congreso IA LATAM 2026** | Comunidad IA LATAM | 20 hrs (01-08-2026) | [`OC-265A54B5`](https://openchapitas.org) | [Diploma (PDF)](Certificados/ialatam-diploma-1er-congreso-2026.pdf) |
@@ -238,6 +239,7 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 </div>
 
 ### 🚀 Otras Especializaciones y Talleres
+- **[Obsidian: Tu Segundo Cerebro con IA (PDF)](Certificados/holamundo-diploma-obsidian-segundo-cerebro-con-ia.pdf)** — *HolaMundo (holamundo.io)*
 - **[Workshop Día 5: Red Team y Linux (Insignia Oficial)](Certificados/insignia-workshop-dia-5-red-team-y-linux.png)** — *Cybersecurity Week 2026 / Diplomados en Ciberseguridad*
 - **[Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Blue-Team.pdf)** — *Diplomados en Ciberseguridad*
 - **[Fundamentos de Análisis de Redes v.1 (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Analisis-de-Redes.pdf)** — *Diplomados en Ciberseguridad (15 hrs)*
