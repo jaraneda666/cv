@@ -9,8 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jaraneda666-181717?style=for-the-badge&logo=github)](https://github.com/jaraneda666)
 [![Email](https://img.shields.io/badge/Email-jaraneda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaraneda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Araneda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20%7C%20Pe%C3%B1aflor%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![Teléfono](https://img.shields.io/badge/Tel%C3%A9fono-%2B56%209%208179%205313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56981795313)
+[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 ---
 
