@@ -11,6 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Araneda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=jaraneda666&repo=cv&color=0284c7&label=VISITAS+AL+REPOSITORIO&style=for-the-badge" height="38"/>
+
 ---
 
 </div>
