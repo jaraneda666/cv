@@ -147,8 +147,18 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 | **Hacking con Inteligencia Artificial (HKAI-105)** | 8.8 Academy | 30 hrs (08-08-2026) | [`OC-9F78B5CF`](https://openchapitas.org) | [Diploma (PDF)](Certificados/8dot8-diploma-hacking-con-ia.pdf) |
 | **Fundamentos del Vibe Coding Seguro (FVCS-101)** | 8.8 Academy / IA LATAM | 7.5 hrs (25-08-2026) | [`OC-B63FAC93`](https://openchapitas.org) (Distinción de Excelencia - Nota 7.0) | [Diploma (PDF)](Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf) |
 | **1er Congreso IA LATAM 2026** | Comunidad IA LATAM | 20 hrs (01-08-2026) | [`OC-265A54B5`](https://openchapitas.org) | [Diploma (PDF)](Certificados/ialatam-diploma-1er-congreso-2026.pdf) |
+| **Gobernanza, Riesgo y Cumplimiento Aplicado a la IA v.1** | Diplomados en Ciberseguridad | 90 hrs (29-09-2026) | Acreditado Carlos Lobos de Medina | [Diploma (PDF)](Certificados/Diplomado-Ciberseguridad-Gobernanza-Riesgo-y-Cumplimiento-IA.pdf) |
+| **Estándares de Ciberseguridad, Privacidad e IA v.1** | Diplomados en Ciberseguridad | 15 hrs (29-09-2026) | 15 Créditos CPEs (Nota 6.9) | [Diploma (PDF)](Certificados/Diplomado-Ciberseguridad-Estandares-Privacidad-e-IA.pdf) |
+| **Foundations of Cybersecurity** | Google / Coursera | 11-05-2026 | [`ILP8K39Z84KU`](https://coursera.org/verify/ILP8K39Z84KU) | [Ver PDF](Certificados/Google-Cybersecurity-Foundations-of-Cybersecurity.pdf) |
+| **Play It Safe: Manage Security Risks** | Google / Coursera | 11-05-2026 | [`MZO453LGFF4R`](https://coursera.org/verify/MZO453LGFF4R) | [Ver PDF](Certificados/Google-Cybersecurity-Play-It-Safe-Manage-Security-Risks.pdf) |
 | **Connect and Protect: Networks and Network Security** | Google / Coursera | 11-05-2026 | [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN) | [Ver PDF](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) |
+| **Tools of the Trade: Linux and SQL** | Google / Coursera | 11-05-2026 | [`3N91VMLL06JE`](https://coursera.org/verify/3N91VMLL06JE) | [Ver PDF](Certificados/Google-Cybersecurity-Tools-of-the-Trade-Linux-and-SQL.pdf) |
+| **Assets, Threats, and Vulnerabilities** | Google / Coursera | 11-05-2026 | [`E0A944HNLGIX`](https://coursera.org/verify/E0A944HNLGIX) | [Ver PDF](Certificados/Google-Cybersecurity-Assets-Threats-and-Vulnerabilities.pdf) |
 | **Sound the Alarm: Detection and Response** | Google / Coursera | 11-05-2026 | [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL) | [Ver PDF](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) |
+| **Primer Ejercicio Nacional de Ciberseguridad** | Ejercicio Nacional de Ciberseguridad | 2026 | Participación Acreditada | [Ver PDF](Certificados/Primer-Ejercicio-Nacional-de-Ciberseguridad.pdf) |
+| **1er Ciclo de Charlas CTF Metaverso Talca** | CTF Metaverso Talca | 2026 | Constancia de Asistente | [Ver PDF](Certificados/Certificado-1er-Ciclo-Charlas-CTF-Metaverso-Talca.pdf) |
+| **Entrenamiento Auditor Interno ISO/IEC 27001** | Hacker Mentor | 2026 | Acreditación de Formación Oficial | [Ver PDF](Certificados/Hacker-Mentor-Iniciando-Entrenamiento-Auditor-Interno-ISO-27001.pdf) |
+| **Curso Formación Complementaria Inglés Básico I** | Instituto Profesional IACC | 40 hrs | Acreditado Aprobación | [Ver PDF](Certificados/IACC-Curso-Electivo-Ingles-Basico-I.pdf) |
 | **Fundamentos de Hacking con Inteligencia Artificial** | 8dot8Academy | 21-04-2026 | `cert_t476m55b` | [Ver PDF](Certificados/certificate-of-completion-for-fundcia-fundamentos-de-hacking-con-inteligencia-artificial.pdf) |
 | **Fundamentos DPO (RGPD y Ley Nº 21.719 de Chile)** | 8dot8Academy | 21-04-2026 | `cert_sryfjngb` | [Ver PDF](Certificados/certificate-of-completion-for-fundatos-del-rol-del-delegado-de-proteccion-de-datos-dpo.pdf) |
 | **Ciberseguridad y Hacking Ético: Detección y Defensa** | BIG school | 6 hrs (10-04-2026) | Acreditado Romuald Fons / Mario Álvarez | [Ver PDF](Certificados/Certificado-Juan-Carlos-Araneda-Morales-gr0cs2on.pdf) |
@@ -244,12 +254,17 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 - **[Fundamentos en Blue Team: Ciberinteligencia, Forense y Respuesta (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Blue-Team.pdf)** — *Diplomados en Ciberseguridad*
 - **[Fundamentos de Análisis de Redes v.1 (PDF)](Certificados/Diplomado-Ciberseguridad-Fundamentos-Analisis-de-Redes.pdf)** — *Diplomados en Ciberseguridad (15 hrs)*
 - **Ciberseguridad con IA: Riesgos Reales y Prácticas de Defensa** — *Cámara Chilena de Inteligencia Artificial*
+- **[Gobernanza, Riesgo y Cumplimiento Aplicado a la IA v.1 (PDF)](Certificados/Diplomado-Ciberseguridad-Gobernanza-Riesgo-y-Cumplimiento-IA.pdf)** — *Diplomados en Ciberseguridad (90 hrs)*
+- **[Estándares de Ciberseguridad, Privacidad e IA v.1 (PDF)](Certificados/Diplomado-Ciberseguridad-Estandares-Privacidad-e-IA.pdf)** — *Diplomados en Ciberseguridad (15 hrs CPEs, Calificación 6.9)*
+- **[Primer Ejercicio Nacional de Ciberseguridad (PDF)](Certificados/Primer-Ejercicio-Nacional-de-Ciberseguridad.pdf)** — *Participación Oficial Acreditada*
+- **[1er Ciclo de Charlas CTF Metaverso Talca (PDF)](Certificados/Certificado-1er-Ciclo-Charlas-CTF-Metaverso-Talca.pdf)** — *Constancia Asistente CTF*
 - **Certificaciones Google / Coursera (Google Cybersecurity Certificate):**
+  - [Foundations of Cybersecurity (PDF)](Certificados/Google-Cybersecurity-Foundations-of-Cybersecurity.pdf) — Credencial Verificada [`ILP8K39Z84KU`](https://coursera.org/verify/ILP8K39Z84KU)
+  - [Play It Safe: Manage Security Risks (PDF)](Certificados/Google-Cybersecurity-Play-It-Safe-Manage-Security-Risks.pdf) — Credencial Verificada [`MZO453LGFF4R`](https://coursera.org/verify/MZO453LGFF4R)
   - [Connect and Protect: Networks and Network Security (PDF)](Certificados/Google-Cybersecurity-Connect-and-Protect.pdf) — Credencial Verificada [`QX76OD61KJUN`](https://coursera.org/verify/QX76OD61KJUN)
+  - [Tools of the Trade: Linux and SQL (PDF)](Certificados/Google-Cybersecurity-Tools-of-the-Trade-Linux-and-SQL.pdf) — Credencial Verificada [`3N91VMLL06JE`](https://coursera.org/verify/3N91VMLL06JE)
+  - [Assets, Threats, and Vulnerabilities (PDF)](Certificados/Google-Cybersecurity-Assets-Threats-and-Vulnerabilities.pdf) — Credencial Verificada [`E0A944HNLGIX`](https://coursera.org/verify/E0A944HNLGIX)
   - [Sound the Alarm: Detection and Response (PDF)](Certificados/Google-Cybersecurity-Sound-the-Alarm-Detection-and-Response.pdf) — Credencial Verificada [`KW3AWNZLZBTL`](https://coursera.org/verify/KW3AWNZLZBTL)
-  - Fundamentos de la ciberseguridad
-  - Activos, amenazas y vulnerabilidades
-  - Herramientas del oficio: Linux y SQL
 - **Armado y Reparación de PC** — *Fundación Padre Álvaro Lavín* (Práctica Laboral en VECTOR - Servicio Técnico Autorizado Compaq, Acer, HP).
 
 ---
@@ -286,7 +301,7 @@ A continuación se detalla la documentación organizada en el repositorio para f
 ## 🌐 Idiomas
 
 - **Español:** Nativo.
-- **Inglés:** Intermedio (lectura técnica, documentación y comunicación profesional).
+- **Inglés:** Intermedio (lectura técnica, documentación y comunicación profesional) — Acreditado mediante [Curso de Formación Complementaria Inglés Básico I (IACC)](Certificados/IACC-Curso-Electivo-Ingles-Basico-I.pdf).
 
 
 
