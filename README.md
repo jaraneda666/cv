@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](banner_linkedin.png)
+![Juan Carlos Araneda - Portada](banner_portada.jpg)
 
 ### **Especialista en Ciberseguridad | SysOps | SysAdmin | Administrador de Infraestructura TI & Redes**
 
