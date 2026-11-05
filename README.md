@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaraneda666-181717?style=for-the-badge&logo=github)](https://github.com/jaraneda666)
 [![Email](https://img.shields.io/badge/Email-jaraneda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaraneda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Araneda-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jcaranedam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Araneda-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/jcaranedam)
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 <br />
