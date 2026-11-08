@@ -315,4 +315,10 @@ A continuación se detalla la documentación organizada en el repositorio para f
 **Juan Carlos Araneda Morales**  
 *Santiago, Chile* • [GitHub @jaraneda666](https://github.com/jaraneda666) • [jaraneda@gmail.com](mailto:jaraneda@gmail.com)
 
+<br>
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square)](LICENSE)
+
+Este contenido y documentación profesional se distribuyen bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE).
+
 </div>
