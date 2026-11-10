@@ -38,7 +38,7 @@ Profesional de las Tecnologías de la Información con **más de 20 años de tra
 
 Especializado en la implementación y securitización de infraestructuras híbridas (On-Premise y Cloud), administración de sistemas **Linux** (RHEL, Ubuntu, Debian) y **Windows Server**, virtualización (**VMware**, **Proxmox**, **Docker**, **Hyper-V**), soluciones de almacenamiento NAS y redes de alto rendimiento (**Cisco**, **Fortinet**, **Ubiquiti**).
 
-En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluaciones de seguridad ofensiva (Pentesting Web, Red Team), análisis y gestión de vulnerabilidades (Nessus, Qualys, Burp Suite, Kali Linux), auditorías de cumplimiento bajo **CIS Benchmark**, **PCI DSS** y **OWASP**, hardening de sistemas, auditoría de identidades (IAM, RBAC, MFA) y securitización de entornos **Microsoft 365**, **Google Workspace** y **GCP**.
+En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluaciones de seguridad ofensiva (Pentesting Web, Red Team), análisis y gestión de vulnerabilidades (Nessus, Qualys, Burp Suite, Kali Linux), auditorías de cumplimiento bajo **ISO/IEC 27001** (Auditor Interno Certificado), **CIS Benchmark**, **PCI DSS** y **OWASP**, hardening de sistemas, auditoría de identidades (IAM, RBAC, MFA) y securitización de entornos **Microsoft 365**, **Google Workspace** y **GCP**.
 
 ---
 
@@ -47,7 +47,7 @@ En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluacione
 ### 🔐 Ciberseguridad & Seguridad de la Información
 - **Seguridad Ofensiva & Defensiva:** Web Application Pentesting, Red Team, Blue Team (ciberinteligencia, forense y respuesta a incidentes), Ethical Hacking.
 - **Análisis de Vulnerabilidades & SAST/DAST:** Nessus, Qualys, Burp Suite, Kali Linux, Prisma Cloud (SAST), OWASP Top 10, CWE, CVSS 4.0.
-- **Normativas & Cumplimiento:** CIS Benchmark, PCI DSS, controles de acceso, gestión de riesgos, Least Privilege, MFA, RBAC.
+- **Normativas & Cumplimiento:** ISO/IEC 27001 (Auditor Interno Certificado), CIS Benchmark, PCI DSS, controles de acceso, gestión de riesgos, Least Privilege, MFA, RBAC.
 - **Securitización de Plataformas Cloud & Endpoint:** Microsoft Defender (Endpoint, Office, XDR), Microsoft Intune (MDM, MAM, Conditional Access, Autopilot), Google Workspace Security, GCP.
 
 ### 🌐 Redes e Infraestructura de Comunicaciones
@@ -146,6 +146,7 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 
 | Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
+| **Certified ISO 27001 Internal Auditor (I27001IA™)** | BadgeClaimed / Hacker Mentor | 10-11-2026 *(Vigencia 2029)* | [`JLRRLLDKFHF-WKCKWQZHC-YTYQWSDGSB`](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) | [Certificado Oficial (PDF)](Certificados/badgeclaimed-certificado-auditor-interno-iso-27001-i27001ia.pdf) • [Comprobante de Examen (PDF)](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) |
 | **Obsidian: Tu Segundo Cerebro con IA** | HolaMundo (holamundo.io) | 25-09-2026 | `fkkmmwl5pn` | [Diploma (PDF)](Certificados/holamundo-diploma-obsidian-segundo-cerebro-con-ia.pdf) |
 | **Hacking con Inteligencia Artificial (HKAI-105)** | 8.8 Academy | 30 hrs (08-08-2026) | [`OC-9F78B5CF`](https://openchapitas.org) | [Diploma (PDF)](Certificados/8dot8-diploma-hacking-con-ia.pdf) |
 | **Fundamentos del Vibe Coding Seguro (FVCS-101)** | 8.8 Academy / IA LATAM | 7.5 hrs (25-08-2026) | [`OC-B63FAC93`](https://openchapitas.org) (Distinción de Excelencia - Nota 7.0) | [Diploma (PDF)](Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf) |
@@ -189,6 +190,13 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="Certificados/badgeclaimed-certificado-auditor-interno-iso-27001-i27001ia.pdf">
+        <img src="Certificados/badgeclaimed-insignia-auditor-interno-iso-27001-i27001ia.png" width="125" alt="Insignia Certified ISO 27001 Internal Auditor - I27001IA" /><br />
+        <b>BadgeClaimed · Hacker Mentor</b><br />
+        <sub>Certified ISO 27001 Internal Auditor (I27001IA™)</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
       <a href="Certificados/Cisco%20Certificate%20of%20Course%20Completion%20(Credential%20&%20Badge).pdf">
         <img src="Certificados/introduction-to-cybersecurity.png" width="125" alt="Insignia Cisco Introduction to Cybersecurity" /><br />
         <b>Cisco Networking Academy</b><br />
@@ -209,6 +217,8 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
         <sub>Vibe Coding Seguro (Excelencia 7.0)</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="Certificados/ialatam-diploma-1er-congreso-2026.pdf">
         <img src="Certificados/ialatam-insignia-1er-congreso-2026.png" width="125" alt="Insignia IA LATAM - 1er Congreso IA LATAM 2026" /><br />
@@ -216,8 +226,6 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
         <sub>1er Congreso IA LATAM 2026</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="Certificados/insignia-workshop-dia-5-red-team-y-linux.png">
         <img src="Certificados/insignia-workshop-dia-5-red-team-y-linux.png" width="125" alt="Insignia Workshop Día 5: Red Team y Linux" /><br />
@@ -239,6 +247,8 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
         <sub>Clase 2: Activos Críticos</sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.pdf">
         <img src="Certificados/Hacker-Mentor-Insignia-3-Cazador-de-Riesgos.png" width="125" alt="Insignia Hacker Mentor - Cazador de Riesgos" /><br />
@@ -246,6 +256,9 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
         <sub>Clase 3: Cazador de Riesgos</sub>
       </a>
     </td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
 
