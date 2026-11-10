@@ -299,9 +299,6 @@ A continuación se detalla la documentación organizada en el repositorio para f
 ### 🎓 Carpeta de Certificados de Estudio
 - Acceso a la colección completa de acreditaciones: [Directorio Certificados/](Certificados/)
 
-### 💼 Portafolio y Declaraciones Profesionales
-- Declaración y fundamentos profesionales: [Directorio Portafolio/](Portafolio/)
-
 ---
 
 ## 🏆 Logros y Proyectos Destacados
