@@ -4,7 +4,7 @@
 
 ![Juan Carlos Araneda - Portada](banner_portada.jpg)
 
-### **Especialista en Ciberseguridad | SysOps | SysAdmin | Administrador de Infraestructura TI & Redes**
+### **Especialista en Ciberseguridad | Auditor Interno ISO 27001 | SysOps | SysAdmin | Administrador de Infraestructura TI & Redes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaraneda666-181717?style=for-the-badge&logo=github)](https://github.com/jaraneda666)
 [![Email](https://img.shields.io/badge/Email-jaraneda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaraneda@gmail.com)
@@ -40,14 +40,17 @@ Especializado en la implementación y securitización de infraestructuras híbri
 
 En el área de **Ciberseguridad**, cuenta con experiencia probada en evaluaciones de seguridad ofensiva (Pentesting Web, Red Team), análisis y gestión de vulnerabilidades (Nessus, Qualys, Burp Suite, Kali Linux), auditorías de cumplimiento bajo **ISO/IEC 27001** (Auditor Interno Certificado), **CIS Benchmark**, **PCI DSS** y **OWASP**, hardening de sistemas, auditoría de identidades (IAM, RBAC, MFA) y securitización de entornos **Microsoft 365**, **Google Workspace** y **GCP**.
 
+Como **Auditor Interno Certificado ISO/IEC 27001 (CertiProf / Hacker Mentor)**, posee sólida formación y práctica en la evaluación y mantenimiento de Sistemas de Gestión de Seguridad de la Información (SGSI), análisis de brechas (Gap Analysis), auditorías de conformidad de controles del Anexo A (ISO/IEC 27002), matrices de riesgo y planes de tratamiento de no conformidades.
+
 ---
 
 ## 🛠 Habilidades y Competencias Técnicas
 
 ### 🔐 Ciberseguridad & Seguridad de la Información
+- **Auditoría Interna SGSI (ISO/IEC 27001:2022):** Planificación, ejecución y reporte de auditorías internas bajo directrices ISO 19011; evaluación de conformidad de cláusulas 4 a 10 y controles del Anexo A (organizacionales, personas, físicos y tecnológicos); evaluación de Declaración de Aplicabilidad (SoA), gestión y mitigación de riesgos de seguridad de la información, redacción de informes periciales de auditoría, levantamiento de No Conformidades (NC) y seguimiento de acciones correctivas (CAPA).
 - **Seguridad Ofensiva & Defensiva:** Web Application Pentesting, Red Team, Blue Team (ciberinteligencia, forense y respuesta a incidentes), Ethical Hacking.
 - **Análisis de Vulnerabilidades & SAST/DAST:** Nessus, Qualys, Burp Suite, Kali Linux, Prisma Cloud (SAST), OWASP Top 10, CWE, CVSS 4.0.
-- **Normativas & Cumplimiento:** ISO/IEC 27001 (Auditor Interno Certificado), CIS Benchmark, PCI DSS, controles de acceso, gestión de riesgos, Least Privilege, MFA, RBAC.
+- **Normativas & Cumplimiento:** ISO/IEC 27001 (Auditor Interno Certificado I27001IA™ por CertiProf / Hacker Mentor), CIS Benchmark, PCI DSS, controles de acceso, gestión de riesgos, Least Privilege, MFA, RBAC.
 - **Securitización de Plataformas Cloud & Endpoint:** Microsoft Defender (Endpoint, Office, XDR), Microsoft Intune (MDM, MAM, Conditional Access, Autopilot), Google Workspace Security, GCP.
 
 ### 🌐 Redes e Infraestructura de Comunicaciones
@@ -146,7 +149,7 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 
 | Certificación / Curso | Institución Emisora | Horas / Fecha | Código / Hash de Verificación | Documento Verificado |
 | :--- | :--- | :---: | :---: | :---: |
-| **Certified ISO 27001 Internal Auditor (I27001IA™)** | BadgeClaimed / Hacker Mentor | 10-11-2026 *(Vigencia 2029)* | [`JLRRLLDKFHF-WKCKWQZHC-YTYQWSDGSB`](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) | [Certificado Oficial (PDF)](Certificados/badgeclaimed-certificado-auditor-interno-iso-27001-i27001ia.pdf) • [Comprobante de Examen (PDF)](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) |
+| **Certified ISO 27001 Internal Auditor (I27001IA™)** | CertiProf / Hacker Mentor | 10-11-2026 *(Vigencia 2029)* | [`JLRRLLDKFHF-WKCKWQZHC-YTYQWSDGSB`](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) | [Certificado Oficial (PDF)](Certificados/certiprof-certificado-auditor-interno-iso-27001-i27001ia.pdf) • [Comprobante de Examen (PDF)](Certificados/classmarker-certificado-examen-auditor-interno-iso-27001.pdf) |
 | **Obsidian: Tu Segundo Cerebro con IA** | HolaMundo (holamundo.io) | 25-09-2026 | `fkkmmwl5pn` | [Diploma (PDF)](Certificados/holamundo-diploma-obsidian-segundo-cerebro-con-ia.pdf) |
 | **Hacking con Inteligencia Artificial (HKAI-105)** | 8.8 Academy | 30 hrs (08-08-2026) | [`OC-9F78B5CF`](https://openchapitas.org) | [Diploma (PDF)](Certificados/8dot8-diploma-hacking-con-ia.pdf) |
 | **Fundamentos del Vibe Coding Seguro (FVCS-101)** | 8.8 Academy / IA LATAM | 7.5 hrs (25-08-2026) | [`OC-B63FAC93`](https://openchapitas.org) (Distinción de Excelencia - Nota 7.0) | [Diploma (PDF)](Certificados/8dot8-ialatam-diploma-vibe-coding-seguro.pdf) |
@@ -190,9 +193,9 @@ Todas las certificaciones listadas a continuación cuentan con verificación ofi
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="Certificados/badgeclaimed-certificado-auditor-interno-iso-27001-i27001ia.pdf">
-        <img src="Certificados/badgeclaimed-insignia-auditor-interno-iso-27001-i27001ia.png" width="125" alt="Insignia Certified ISO 27001 Internal Auditor - I27001IA" /><br />
-        <b>BadgeClaimed · Hacker Mentor</b><br />
+      <a href="Certificados/certiprof-certificado-auditor-interno-iso-27001-i27001ia.pdf">
+        <img src="Certificados/certiprof-insignia-auditor-interno-iso-27001-i27001ia.png" width="125" alt="Insignia Certified ISO 27001 Internal Auditor - I27001IA" /><br />
+        <b>CertiProf · Hacker Mentor</b><br />
         <sub>Certified ISO 27001 Internal Auditor (I27001IA™)</sub>
       </a>
     </td>
